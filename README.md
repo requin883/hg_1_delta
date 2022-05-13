@@ -1,15 +1,8 @@
-# Tipo de usuario
+# hg_1_delta
 
--   [ ] Alfa
--   [x] Bravo
--   [ ] Charlie
--   [ ] Delta
--   [ ] Echo
-
-# Seleccione el tipo de actividad
-
--   [ ] Feature
--   [x] Hotfix
--   [ ] Refactor
--   [ ] Performance
--   [ ] Testing
+|Nombre|Ubicación|Alias|
+|------|---------|-----|
+|Francisco Mendoza|Venezuela|Alfa|
+|José Salazar|Venezuela|Bravo|
+|Fermín Lopez|Venezuela|Charlie|
+|Javier Morón|Venezuela|Delta|
